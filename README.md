@@ -1,3 +1,12 @@
 # Quick-start-Node-Angular-Semantic
 
-La doc !
+### Installation
+
+```bash
+$ npm install
+```
+### Lancement de l'application 
+
+```sh
+$ node server
+```
