@@ -1,0 +1,12 @@
+{
+  "development": {
+    "port": 3000,
+    "host": "127.0.0.1",
+    "errorHandlerOptions": {"dumpExceptions": true, "showStack": true}
+  },
+  "production": {
+    "port": 8080,
+    "host": "",
+    "errorHandlerOptions": {"dumpExceptions": false, "showStack": false}
+  }
+}
