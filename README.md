@@ -1,4 +1,4 @@
-# Quick-start-Node-Angular-Semantic
+# Quick-start-Node-Angular-Bootstrap
 
 ### Installation
 
